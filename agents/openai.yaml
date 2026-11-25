@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maths Assessment Review"
+  short_description: "Build maths review packs for SMART Notebook"
+  default_prompt: "Use $maths-assessment-review to turn my test paper, mark scheme and class question-level analysis into a widescreen review pack."
